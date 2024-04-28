@@ -4,7 +4,7 @@ let userSeq = [];
 let started = false;
 let level = 0;
 
-let btns = ["red", "yellow", "green", "blue"];
+let btns = ["red", "yellow", "green", "purple"];
 
 let h2 = document.querySelector( "h2" );
 
